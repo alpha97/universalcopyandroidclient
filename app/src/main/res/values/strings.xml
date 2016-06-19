@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Universal Copy Paste</string>
+
+    <!--<string name="ServerIP">http://192.169.6.156:1337/</string>-->
+    <string name="ServerIP">http://128.199.89.41:9001/</string>
+    <string name="UserKey">User</string>
+</resources>
